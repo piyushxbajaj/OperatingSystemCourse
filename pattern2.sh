@@ -3,16 +3,14 @@ echo "Enter the number"
 read number
 restore=$number
 rows=$number
-for((i=0; i<number; i++))
+k=1
+for((i=1; i<number; i++))
 do
-for((i=0; i<rows; i++))
-do
-	for((j=0;j<=i;j++))
-	do
-		echo -n "$number "
-		number=$((number - 1))
+	for((j=1;j<=i;j++,k++))
+	do 
+		echo -n "$k"
 	done
-	number=$restore
-	echo 
+	echo
 done
+
 
