@@ -3,6 +3,8 @@ echo "Enter the number"
 read number
 restore=$number
 rows=$number
+for((i=0; i<number; i++))
+do
 for((i=0; i<rows; i++))
 do
 	for((j=0;j<=i;j++))
