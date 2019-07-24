@@ -10,7 +10,7 @@ Digital Assignment Codes
 4. pattern1.sh
 5. (pattern2: yet to upload)
 6. pattern3.sh
-7. (pattern4: yet to upload)
+7. pattern4.sh
 
 For more:
 piyushxbajaj.xyz
