@@ -14,9 +14,16 @@ Digital Assignment Codes
 
 CPU scheduling C programs
 1. sjf.c
+https://www.codingalpha.com/preemptive-shortest-job-first-algorithm-c-program/
+
 2. PriorityScheduling.c
+https://www.programming9.com/programs/c-programs/165-c-program-to-simulate-priority-cpu-scheduling-algorithm
+
 3. roundRobin.c
+https://www.codingalpha.com/round-robin-scheduling-c-program/
+
 4. Longest Remaining time first
+(didn't find yet)
 
 
 For more:
