@@ -3,7 +3,7 @@ All my shell scripting codes
 I am using the site https://www.shellscript.sh/
 
 Digital Assignment Codes
-
+( All these codes are in Shell scripts folder )
 1. evenOdd.sh
 2. revNum.sh and revNumShortcut.sh
 3. factorial.sh
@@ -11,6 +11,13 @@ Digital Assignment Codes
 5. pattern2.sh
 6. pattern3.sh
 7. pattern4.sh
+
+CPU scheduling C programs
+1. sjf.c
+2. Priority scheduling
+3. Round Robin
+4. Longest Remaining time first
+
 
 For more:
 piyushxbajaj.xyz
