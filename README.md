@@ -14,8 +14,8 @@ Digital Assignment Codes
 
 CPU scheduling C programs
 1. sjf.c
-2. PriorityScheduling,c
-3. Round Robin
+2. PriorityScheduling.c
+3. roundRobin.c
 4. Longest Remaining time first
 
 
