@@ -1,5 +1,5 @@
 
-All my shell scripting codes
+This repo contains all my shell scripting codes
 I am using the site https://www.shellscript.sh/
 
 Digital Assignment Codes
